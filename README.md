@@ -15,5 +15,7 @@
 
 ## Languages and tools
 [![cleudiani GitHub stats](https://github-readme-stats.vercel.app/api?username=cleudiani)](https://github.com/cleudiani/github-readme-stats)
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
  - Thanks for visiting.
